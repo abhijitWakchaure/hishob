@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a88cd086d606d6773c605ac3e1f119ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/07856d2bea51eac81b0adf2de51122bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abhi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/63911c3084fc584c5e0beaee577aa1a2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/392d8205e5b62011bcf7ca10fcb00b1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/49ea7bff0c89164e6663467120797853/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/da7fb77e5f1b5cd24aa528f8275813e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bdc1d97869ccfb9d7e47300168306c6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/83f1ba919bc304dd268ef6b6512c253b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ba6849fc98b46c3fb97a8fcbfdc3bf41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/26f54b02c1557a85f655ff862ee60488/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b0b5eddc9cf2b2db2d2d12b12683b02a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0b515049826031d80ccf4654cfe5e2e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1fec00ac5915f2c6790714fe343aacaa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/db2807e7e6c135fac9b2ff4194e06076/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e6063aa3b1431bb30b49799e3155daf0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/65639a2a90568e0160634ac77fae2465/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/82d2653e3f753d1ae7793db26a3533a2/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abhi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/63911c3084fc584c5e0beaee577aa1a2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abhi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/63911c3084fc584c5e0beaee577aa1a2/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.darkroomlabs.hishob.MainActivity
+ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.darkroomlabs.hishob.DisplayExpenseActivity
+ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:19:19-57
+activity#com.darkroomlabs.hishob.AddExpenseActivity
+ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:parentActivityName
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:23:13-55
+	android:label
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:22:13-63
+	android:theme
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:21:13-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:25:13-27:72
+	android:value
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml:26:17-63
+uses-sdk
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a88cd086d606d6773c605ac3e1f119ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a88cd086d606d6773c605ac3e1f119ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/07856d2bea51eac81b0adf2de51122bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/07856d2bea51eac81b0adf2de51122bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abhi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/63911c3084fc584c5e0beaee577aa1a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abhi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/63911c3084fc584c5e0beaee577aa1a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/392d8205e5b62011bcf7ca10fcb00b1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/392d8205e5b62011bcf7ca10fcb00b1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/49ea7bff0c89164e6663467120797853/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/49ea7bff0c89164e6663467120797853/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/da7fb77e5f1b5cd24aa528f8275813e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/da7fb77e5f1b5cd24aa528f8275813e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bdc1d97869ccfb9d7e47300168306c6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bdc1d97869ccfb9d7e47300168306c6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/83f1ba919bc304dd268ef6b6512c253b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/83f1ba919bc304dd268ef6b6512c253b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ba6849fc98b46c3fb97a8fcbfdc3bf41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ba6849fc98b46c3fb97a8fcbfdc3bf41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/26f54b02c1557a85f655ff862ee60488/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/26f54b02c1557a85f655ff862ee60488/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b0b5eddc9cf2b2db2d2d12b12683b02a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b0b5eddc9cf2b2db2d2d12b12683b02a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0b515049826031d80ccf4654cfe5e2e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0b515049826031d80ccf4654cfe5e2e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1fec00ac5915f2c6790714fe343aacaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/abhi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1fec00ac5915f2c6790714fe343aacaa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/db2807e7e6c135fac9b2ff4194e06076/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/db2807e7e6c135fac9b2ff4194e06076/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e6063aa3b1431bb30b49799e3155daf0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e6063aa3b1431bb30b49799e3155daf0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/65639a2a90568e0160634ac77fae2465/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/65639a2a90568e0160634ac77fae2465/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/82d2653e3f753d1ae7793db26a3533a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/abhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/82d2653e3f753d1ae7793db26a3533a2/AndroidManifest.xml:20:5-44
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhi/Android/Projects/Hishob/app/src/main/AndroidManifest.xml

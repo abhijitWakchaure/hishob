@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/abhi/Android/Projects/Hishob/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/home/abhi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/07856d2bea51eac81b0adf2de51122bc/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        }
+    ]
+}

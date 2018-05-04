@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hishob</string>
+    <string name="lable_radioCredit">Credit</string>
+    <string name="lable_radioDebit">Debit</string>
+    <string name="lable_transaction_type">Type of Transaction</string>
+    <string name="lable_addExpense_instruction">Add your expense here</string>
+    <string name="lable_payment_mode">Payment Mode</string>
+    <string name="lable_radioPaymentMode_Cash">Cash</string>
+    <string name="lable_radioPaymentMode_Splitwise">Splitwise</string>
+    <string name="lable_radioPaymentMode_HDFCDebit">HDFC Debit</string>
+    <string name="lable_radioPaymentMode_HDFCCredit">HDFC Credit</string>
+    <string name="lable_primaryCategory">Primary Category</string>
+    <string name="lable_subCategory">Description</string>
+    <string name="lable_amount">Amount</string>
+    <string name="lable_btn_addExpense">Add Expense</string>
+    <string name="title_activity_add_expense">Add New Expense</string>
+</resources>
