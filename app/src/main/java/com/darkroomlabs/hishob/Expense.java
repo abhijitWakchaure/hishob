@@ -1,8 +1,10 @@
 package com.darkroomlabs.hishob;
 
 import java.io.Serializable;
+import java.util.Date;
 
 class Expense implements Serializable {
+    private Long id;
     private String typeof_Transaction;
     private String modeof_Payment;
     private String primaryCategory;
@@ -10,6 +12,7 @@ class Expense implements Serializable {
     private String amount;
 
     public Expense(){
+        id = new Date().getTime();
         amount = "0.00";
     }
 
@@ -17,6 +20,7 @@ class Expense implements Serializable {
     public String toString() {
         return "tt: "+typeof_Transaction+" | pm: "+modeof_Payment+" | pc: "+primaryCategory+" | sc: "+subCategory+" | am: "+amount;
     }
+
 
     public String getTypeof_Transaction() {
         return typeof_Transaction;
@@ -56,5 +60,9 @@ class Expense implements Serializable {
 
     public void setAmount(String amount) {
         this.amount = amount;
+    }
+
+    public Long getId() {
+        return id;
     }
 }

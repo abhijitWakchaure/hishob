@@ -14,4 +14,7 @@
     <string name="lable_amount">Amount</string>
     <string name="lable_btn_addExpense">Add Expense</string>
     <string name="title_activity_add_expense">Add New Expense</string>
+    <string name="lable_transactionID">Transaction ID</string>
+    <string name="lable_editTransaction">Edit Transaction</string>
+    <string name="lable_confirmTransaction">Confirm</string>
 </resources>
